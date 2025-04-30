@@ -14,6 +14,8 @@ const userData = {
       { task: "Schedule Appointment" },
       { task: "Review for Exam" },
       { task: "Finish the Project" },
+      { task: "A" },
+      { task: "B" },
       { task: "Modify Code" },
       { task: "Experimental Code" },
     ],
