@@ -16,6 +16,8 @@ const userData = {
       { task: "Finish the Project" },
       { task: "A" },
       { task: "B" },
+      { task: "Modify Code" },
+      { task: "Experimental Code" },
     ],
   },
 };
